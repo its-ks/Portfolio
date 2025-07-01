@@ -155,7 +155,7 @@ export const experience: TimelineItem[] = [
   {
     date: 'Oct 2024 – Dec 2024',
     location: 'Ericsson India (Remote)',
-    title: 'Student Intern',
+    title: 'Software Intern',
     content: <p>Contributed to internal backend modules and participated in industry-grade software practices.</p>,
   },
 ];
