@@ -178,8 +178,8 @@ export const contact: ContactSection = {
 
 
 export const socialLinks: Social[] = [
-  { label: 'Github', Icon: GithubIcon, href: 'https://github.com/its-ks' },
-  { label: 'LinkedIn', Icon: LinkedInIcon, href: 'https://www.linkedin.com/in/kaushalendra-singh-281a57215/h' },
-  { label: 'Instagram', Icon: InstagramIcon, href: 'https://www.instagram.com/gopal__.singh/' }, // 👈 Add this
+  {label: 'Github', Icon: GithubIcon, href: 'https://github.com/its-ks'},
+  {label: 'LinkedIn', Icon: LinkedInIcon, href: 'https://www.linkedin.com/in/kaushalendra-singh-281a57215/h'},
+  {label: 'Instagram', Icon: InstagramIcon, href: 'https://www.instagram.com/gopal__.singh/'},
 ];
 
